@@ -7,7 +7,6 @@ I am a passionate developer with a strong foundation in Java Full Stack Developm
 I enjoy building web applications and continuously improving my skills in both backend and frontend technologies.
 
 LinkedIn: https://www.linkedin.com/in/indraja-kallukunta-37621b275
-https://github.com/Kallukunta-indraja
 
  ### Tech Stack
  
